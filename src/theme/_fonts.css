@@ -1,0 +1,17 @@
+:root {
+    --font-size-title-big: 26px;
+    --font-size-title-medium: 24px;
+    --font-size-title-small: 22px;
+
+    --font-size-subtitle-big: 20px;
+    --font-size-subtitle-medium: 18px;
+    --font-size-subtitle-small: 16px;
+
+    --font-size-text-big: 14px;
+    --font-size-text-medium: 12px;
+    --font-size-text-small: 10px;
+
+    --font-weight-light: 300;
+    --font-weight-medium: 500;
+    --font-weight-bold: 700;
+}

@@ -1,0 +1,83 @@
+.payment-content-wrapper {
+    padding: 30px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.payment-method-wrapper {
+    width: 60%;
+}
+
+.payment-content-title {
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    color: var(--primary-medium);
+    font-size: var(--font-size-title-big);
+    line-height: var(--font-size-title-big);
+}
+
+.payment-card-input-field {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.payment-address-select-field {
+    height: 36px;
+    width: 250px;
+    background-image: linear-gradient(white 0,#f3f3f3 100%);
+}
+
+.payment-card-detail {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.payment-order-detail-wrapper {
+    width: 40%;
+    text-align: center;
+    padding-left: 40px;
+}
+
+.payment-order-detail-box {
+    height: 100%;
+    background-color: var(--text-secondary-light);
+    box-sizing: border-box;
+    max-width: 400px;
+    padding: 0px 15px;
+    text-align: center;
+}
+
+.payment-checkout-box {
+    width: auto;
+}
+
+.payment-card-input-field--big {
+    width: 60%;
+}
+
+.payment-card-input-field--sml {
+    width: 20%;
+}
+
+.payment-order-detail-table {
+    margin: 20px 0px;
+    display: table;
+    width: 100%;
+}
+
+.payment-order-detail-row {
+    display: table-row;
+    width: 100%;
+}
+
+.payment-order-detail-cell {
+    display: table-cell;
+    color: var(--text-primary-dark);
+    border-bottom: 1px solid var(--text-secondary-dark);
+    width: 50%;
+    padding: 10px 0px;
+}

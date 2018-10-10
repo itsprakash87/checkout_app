@@ -1,0 +1,13 @@
+.checkout-layout-wrapper {
+    position: relative;
+    width: 85%;
+    z-index: 10;
+    display: block;
+    margin: 100px auto;
+    background-color: #fff;
+    box-shadow: 0 0 30px 0 rgba(0,0,0,.1);
+}
+
+.checkout-layout-separator {
+    border-top: 1px dashed #b3b3b3;
+}

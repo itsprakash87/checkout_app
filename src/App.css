@@ -1,0 +1,44 @@
+body {
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+h1 {
+  font-size: var(--font-size-title-big);
+  font-weight: var(--font-weight-bold);
+}
+
+h2 {
+  font-size: var(--font-size-title-medium);
+  font-weight: var(--font-weight-bold);
+}
+
+h3 {
+  font-size: var(--font-size-title-small);
+  font-weight: var(--font-weight-bold);
+}
+
+h4 {
+  font-size: var(--font-size-subtitle-big);
+  font-weight: var(--font-weight-medium);
+}
+
+h5 {
+  font-size: var(--font-size-subtitle-medium);
+  font-weight: var(--font-weight-medium);
+}
+
+.App {
+  width: 100%;
+  margin: 0px;
+  padding: 0px; 
+}

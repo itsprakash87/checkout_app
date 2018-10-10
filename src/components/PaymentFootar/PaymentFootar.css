@@ -1,0 +1,23 @@
+.payment-footar-wrapper {
+    padding: 40px 50px;
+}
+
+.payment-footar-title {
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    color: var(--primary-medium);
+    font-size: var(--font-size-title-big);
+    line-height: var(--font-size-title-big);
+}
+
+.payment-footar-promo-form-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.payment-footar-promo-form-wrapper--button {
+    margin-left: 40px;
+    border-radius: 0px;
+}

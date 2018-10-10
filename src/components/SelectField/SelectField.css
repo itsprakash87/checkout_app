@@ -1,0 +1,12 @@
+.select-field-wrapper {
+    display: block;
+    padding: 4px 4px;
+    border: 1px solid var(--text-secondary-light);
+    border-radius: 0;
+    background-color: #fff;
+    transition: border .2s ease,background-color .2s ease;
+    color: var(--text-secondary-dark);
+    font-size: var(--font-size-text-big);
+    width: 100px;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.input-field {
+    display: block;
+    height: 24px;
+    padding: 8px 12px;
+    font-size: var(--font-size-text-big);
+    line-height: 1.5;
+    color: var(--text-primary-dark);
+    background-color: #fff;
+}

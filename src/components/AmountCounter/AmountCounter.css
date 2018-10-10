@@ -1,0 +1,8 @@
+.amount-counter-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.amount-counter-price {
+    color: var(--text-primary-dark);
+}

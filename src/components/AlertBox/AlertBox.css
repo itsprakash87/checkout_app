@@ -1,0 +1,22 @@
+.alert-box {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    max-width: 400px;
+    height: auto;
+    padding: 20px;
+    z-index: 100;
+    border-radius: 5px;
+}
+
+.alert-box--error {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.alert-box--success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}

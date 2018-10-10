@@ -1,0 +1,52 @@
+.checkoutbox-container {
+    width: 230px;
+}
+
+.checkoutbox-top-wrapper {
+    width: 100%;
+    padding: 15px 20px 17px;
+    background-color: var(--text-secondary-light);
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.checkoutbox-top-title {
+    color: var(--primary-dark);
+    font-size: var(--font-size-text-big);
+    font-weight: var(--font-weight-bold);
+    line-height: 18px;
+    text-transform: uppercase;
+    box-sizing: border-box;
+}
+
+.checkoutbox-top-amount {
+    margin-top: 10px;
+    color: var(--text-primary-dark);
+    font-size: var(--font-size-title-big);
+    line-height: 21px;
+    font-weight: var(--font-weight-medium);
+    text-transform: uppercase;
+}
+
+.checkoutbox-button {
+    width: 100%;
+    margin-top: 0;
+    background-color: var(--secondary-color);
+    line-height: 31px;
+    font-size: var(--font-size-subtitle-small);
+    font-weight: var(--font-weight-bold);
+    border-radius: 0;
+    display: inline-block;
+    border: 0;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 9px 25px;
+    transition: opacity .2s ease;
+    color: #fff;
+}
+
+.checkoutbox-button:hover {
+    opacity: 0.8;
+}

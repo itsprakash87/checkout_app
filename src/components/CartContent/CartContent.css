@@ -1,0 +1,4 @@
+.cart-content-empty-text {
+    color: var(--text-primary-dark);
+    font-size: var(--font-size-subtitle-medium)
+}
